@@ -12,7 +12,7 @@
 ## 2. 데이터셋
 - 서울시내 한강 수위예측
 
-## 4. 결과 및 액션
+## 3. 결과 및 액션
 - CNN을 활용한 한강수위 시계열 예측 모델링
 - Ranked in 25 / 308 (Top 8%)
 - Certificate of Achievement - Bronze🥉
